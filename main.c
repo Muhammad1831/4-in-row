@@ -1,10 +1,3 @@
-/*
-student ID : 40012358030
-student Name : MuhammadSaleh Qarehdaqi
-
-student ID : 40012358014
-student Name : Sajad Dehqan
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
